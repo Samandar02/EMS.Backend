@@ -1,0 +1,14 @@
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\bin\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.deps.json
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\bin\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.runtimeconfig.json
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\bin\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.runtimeconfig.dev.json
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\bin\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.dll
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.csprojAssemblyReference.cache
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.RazorAssemblyInfo.cache
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.RazorAssemblyInfo.cs
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.AssemblyInfoInputs.cache
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.AssemblyInfo.cs
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.RazorTargetAssemblyInfo.cache
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\bin\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.pdb
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.dll
+C:\Users\NOVO\source\repos\WhileLearnAsp.NetCoreApp\obj\Debug\netcoreapp2.1\WhileLearnAsp.NetCoreApp.pdb
